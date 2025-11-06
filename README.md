@@ -8,7 +8,7 @@
 
 ## Presentation
 
-This repository — [**thomgit9/monorepo**](https://github.com/thomgit9/monorepo) — hosts **all Devcon and Devconnect-related applications and infrastructure** for the Ethereum Foundation.
+This repository — [**efdevcon/monorepo**](https://github.com/efdevcon/monorepo) — hosts **all Devcon and Devconnect-related applications and infrastructure** for the Ethereum Foundation.
 
 It brings together the official websites, APIs, archives, and shared libraries used across projects that support the Ethereum community’s major events:
 
