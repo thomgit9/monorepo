@@ -1,4 +1,4 @@
-```markdown
+
 [![Documented with Setinstone.io](https://img.shields.io/badge/⛰️Documented%20with-Setinstone.io-success?logo=book&logoColor=white)](https://calendly.com/set-in-stone-thomas-benoit/setinstone-demo)
 ![License](https://img.shields.io/github/license/thomgit9/monorepo)
 ![Last Commit](https://img.shields.io/github/last-commit/thomgit9/monorepo/main)
